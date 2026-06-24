@@ -5,8 +5,8 @@
 <h1 align="center">VAMPULSE — Releases</h1>
 
 <p align="center">
-  A fast, no-deceleration 3D arena shooter-fighter-platformer.<br>
-  Quake-style movement and LG energy, grapple &amp; wrecking-ball swinging,<br>
+  A fast, momentum-driven 3D arena shooter-fighter-platformer.<br>
+  Quake PQL-style strafe movement and LG energy, grapple &amp; wrecking-ball swinging,<br>
   and melee duels fought through short osu!mania-style rhythm charts.
 </p>
 
