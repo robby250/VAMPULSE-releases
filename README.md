@@ -5,24 +5,27 @@
 <h1 align="center">VAMPULSE — Releases</h1>
 
 <p align="center">
-  A fast, momentum-driven 3D arena shooter-fighter-platformer.<br>
-  Quake PQL-style strafe movement and LG energy, grapple &amp; wrecking-ball swinging,<br>
-  and melee duels fought through short osu!mania-style rhythm charts.
+  A chaotic, fast-paced, momentum-driven 3D arena shooter.<br>
+  Quake-style strafe movement, grapple &amp; wrecking-ball swinging you ram people with,<br>
+  vampiric lifesteal on every hit, and charge-gated ultimate duels.<br>
+  <strong>Keep moving — standing still gets you punished.</strong>
 </p>
+
+<p align="center"><a href="https://vampulse.com">vampulse.com</a></p>
 
 ---
 
 ## Download
 
-Grab the latest build from the **[Releases](../../releases)** tab → download the Windows or
-Linux archive, unzip, and run. No account needed.
+Grab the latest build from the **[Releases](../../releases)** tab → download the Windows, Linux,
+or macOS archive, unzip, and run. No account needed.
 
 ## Play online
 
-Launch the game, open **Join Server**, and enter the official server address (shown on the
-website), or find servers on your LAN via the in-game browser. To host your own, the dedicated
-server is a single command on any cheap Linux VPS.
+Launch the game, click **Multiplayer**, and the official server is listed in the **Internet** tab —
+just click it and join. (You can also paste an address in Direct Connect.)
 
----
+## Report a bug
 
-This repository hosts the official game **builds** only. It does not contain the source code.
+Found something broken? Open an issue on the **[Issues](../../issues)** tab — search first, then
+hit **New issue** with steps to reproduce, your OS, and the build version.
