@@ -21,7 +21,8 @@
 - **Ball form:** roll at speed, ram bodies out of the way, slam down from the air.
 - **Guns:** lightning beam, railgun, rocket launcher, plus melee. Every hit heals you (lifesteal).
 - **Portals** you place and shoot, walk and throw things through.
-- **Ordnance:** a dozen rack weapons on pads around the map (homing missiles, napalm, MIRVs, serpents, hydras, ...).
+- **Ordnance:** a dozen rack weapons on pads around the map (Seeker Missile, Wildfire, Rebound Bomb, Arc Mortar,
+  Sawblade, Frost Viper, Hydra, ...).
 - **Ultimates:** charge up, then duel.
 - **Bots** from Easy to Insane+5, their play tuned by self-play tournaments.
 - **Match rules** the host sets per ability: on/off, damage, lifesteal and cooldowns.
