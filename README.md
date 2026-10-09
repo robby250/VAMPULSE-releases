@@ -30,14 +30,13 @@
 ## Built to run fast
 
 - A custom fork of Godot 4.7, with all game code written in C++.
-- Every release is benchmarked frame for frame against **Quake3e** on the same laptop. The busiest thread's work and
-  the GPU's work per frame have to stay at Quake 3's level.
+- Every release is benchmarked frame for frame against **Quake3e**: the busiest thread's work and the GPU's work per
+  frame have to stay at Quake 3's level.
 - The stress test is the worst case: 200 bots in one spot, all firing.
 - Rendering, physics (Jolt) and game logic each run on their own threads.
 - A handful of shared shaders, all compiled before you play: nothing stutters the first time you see it.
 - Mesh detail levels and culling keep the triangle count within budget in a full fight.
-- Dedicated servers with accounts. The server replays your movement when it doubts it, so cheated movement doesn't
-  stick.
+- Dedicated servers with accounts.
 
 ## Download
 
@@ -46,8 +45,8 @@ Grab the latest build from the **[Releases](../../releases)** tab: the Windows o
 
 ## Play together
 
-Click **Multiplayer** on the title screen. Servers on your network (LAN or Tailscale) show up in the list; you can
-also type an address. **Host** starts your own.
+Click **Multiplayer** on the title screen. Servers on your network show up in the list; you can also type an
+address. **Host** starts your own.
 
 ## Report a bug
 
