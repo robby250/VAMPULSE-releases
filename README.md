@@ -30,12 +30,8 @@
 ## Built to run fast
 
 - A custom fork of Godot 4.7, with all game code written in C++.
-- Every release is benchmarked frame for frame against **Quake3e**: the busiest thread's work and the GPU's work per
-  frame have to stay at Quake 3's level.
-- The stress test is the worst case: 200 bots in one spot, all firing.
-- Rendering, physics (Jolt) and game logic each run on their own threads.
-- A handful of shared shaders, all compiled before you play: nothing stutters the first time you see it.
-- Mesh detail levels and culling keep the triangle count within budget in a full fight.
+- Every release is benchmarked against **Quake3e** and has to run as light as Quake 3 does.
+- Stress-tested with 200 bots fighting in one spot.
 - Dedicated servers with accounts.
 
 ## Download
