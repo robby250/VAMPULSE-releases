@@ -19,7 +19,7 @@
 
 - **Movement:** Quake 3 / CPMA strafe-jumping and air control, a dash, and a grapple you swing on.
 - **Ball form:** roll at speed, ram bodies out of the way, slam down from the air.
-- **Guns:** lightning beam, railgun, rocket launcher, plus melee. Every hit heals you (lifesteal).
+- **Guns:** LG, Rail and Rocket, plus melee. Every hit heals you (lifesteal).
 - **Portals** you place and shoot, walk and throw things through.
 - **Ordnance:** a dozen rack weapons on pads around the map (Seeker Missile, Wildfire, Rebound Bomb, Arc Mortar,
   Sawblade, Frost Viper, Hydra, ...).
